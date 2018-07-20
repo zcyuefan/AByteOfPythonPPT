@@ -3984,9 +3984,3 @@ This will be automatically retried if exception is thrown.<br>
   * [Functional Programming with Python presentation](http://ua.pycon.org/static/talks/kachayev/index.html)
   * [Funcy library](https://github.com/Suor/funcy)
   * [PyToolz library](http://toolz.readthedocs.org/en/latest/)
-
-
-
-## 总结
-
-现在我们已经行至本书末尾，不过，正如人们所说，这是 _昭示着开始的终结_ ！你现在已经是一名狂热 Python 用户，毫无疑问，你已准备好通过 Python 来解决诸多问题了。你可以开始自动化你的电脑，去做任何你以前难以想象的事情，你可以开始编写你自己的游戏，开始做更多更多的事，远不仅此。来，让我们出发吧！
